@@ -294,7 +294,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Viditworks1" />
                     <br />
                     <sub>
-                        <b>Viditworks1</b>
+                        <b>Viditworks1 Test</b>
                     </sub>
                 </a>
             </td> 
